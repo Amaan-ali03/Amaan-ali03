@@ -10,19 +10,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-ali-94830b291)
 [![Email](https://img.shields.io/badge/Email-ali2003.amaan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali2003.amaan@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-n0exxXYbf5-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/n0exxXYbf5)
 [![GitHub](https://img.shields.io/badge/GitHub-Amaan--ali03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amaan-ali03)
 
 <img src="https://komarev.com/ghpvc/?username=Amaan-ali03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-
-</div>
-
----
-
-### 🧩 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/n0exxXYbf5?theme=dark&extension=activity" alt="LeetCode Stats" width="60%"/>
 
 </div>
 
