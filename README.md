@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Amaan%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=VLM%20Researcher%20%7C%20Edge%20AI%20Engineer%20%7C%20Multimodal%20Systems&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+IIT+Patna;ML+Intern+%40+University+of+Tsukuba%2C+Japan;Published+Author+%40+ACL+2026+Findings;Building+Edge-Optimized+VLMs+with+LoRA+%2B+4-bit+Quant;Ex-Research+Consultant+%40+WorldQuant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=B.Tech+%40+IIT+Patna+2028;Ex-ML+Intern+%40+University+of+Tsukuba%2C+Japan;Published+Author+%40+ACL+2026+Findings;Building+Edge-Optimized+VLMs+with+LoRA+%2B+4-bit+Quant;Ex-Research+Consultant+%40+WorldQuant" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,12 +23,9 @@
 
 ```yaml
 name: Amaan Ali
-role: B.Tech, Computer Science & Engineering
-institute: Indian Institute of Technology, Patna  (2023 – Present)
-cgpa: 8.52 / 10.0
+branch: B.Tech @ IIT Patna 2028
 focus: ["Vision-Language Models", "Edge AI", "Multimodal Reasoning", "Mixture-of-Experts"]
 current: [
-    "ML Intern @ University of Tsukuba, Japan (VLM research under Prof. YU Hai-Tao)",
     "Manager, Entrepreneurship Cell",
     "Coordinator, Research Community"
 ]
@@ -36,7 +33,7 @@ fun_fact: "I compress billion-parameter VLMs to fit on the edge, one LoRA adapte
 ```
 
 - 🔬 Published author in **ACL 2026 Findings** for research on Hybrid Mixture-of-Experts architectures for multimodal reasoning
-- 🌏 Currently a **Machine Learning Intern** at the **University of Tsukuba, Japan**, building evidence-grounded product affordance reasoning benchmarks for VLMs
+- 🌏 Completed a **Machine Learning Internship** at the **University of Tsukuba, Japan**, building evidence-grounded product affordance reasoning benchmarks for VLMs
 - 🧩 Architected a **Hybrid-MoE framework** delivering **5–6% performance gains** across 6 production VLMs
 - 💹 Simulated **300+ quantitative alphas** with **Sharpe ratio 5+** as a Research Consultant at **WorldQuant**
 - 🌐 **Google Summer of Code 2025** contributor at Joomla!, boosting test coverage from 40% → 85%+
@@ -143,7 +140,7 @@ Multimodal pipeline built on the ARES framework for Vision-Language-Action model
 <tr><td width="140"><b>Sep 2025 – Jan 2026</b></td><td>💹 <b>WorldQuant</b> — Research Consultant, Quantitative Finance<br/><sub>300+ alphas · Sharpe 5+ · 25% lower drawdown</sub></td></tr>
 <tr><td><b>Jan 2025 – May 2025</b></td><td>🌐 <b>Google Summer of Code — Joomla!</b> — Contributor<br/><sub>2,000+ lines refactored · test coverage 40% → 85%+</sub></td></tr>
 <tr><td><b>Nov 2025 – Apr 2026</b></td><td>🧩 <b>IIT Patna</b> — Research Intern, NLP & Multimodal AI<br/><sub>Hybrid-MoE · Varnika corpus · ACL 2026 Findings</sub></td></tr>
-<tr><td><b>May 2026 – Present</b></td><td>🇯🇵 <b>University of Tsukuba</b> — ML Intern, Vision-Language Models<br/><sub>Afford-QA benchmark · AVE framework</sub></td></tr>
+<tr><td><b>May 2026 – Aug 2026</b></td><td>🇯🇵 <b>University of Tsukuba</b> — ML Intern, Vision-Language Models<br/><sub>Afford-QA benchmark · AVE framework</sub></td></tr>
 </table>
 
 ---
@@ -155,7 +152,7 @@ Multimodal pipeline built on the ARES framework for Vision-Language-Action model
 | 📄 **ACL 2026 Findings** | Co-author, Hybrid-MoE for idiomatic understanding in language models |
 | 📝 **AAAI (Under Review)** | Evidence-grounded product affordance reasoning with VLMs |
 | 💹 **WorldQuant IQC** | 300+ alphas, Sharpe ratio 5+, 20%+ returns |
-| 🎯 **iRage Return Prediction Challenge** | 8th place (ongoing) — LightGBM/XGBoost ensemble |
+| 🎯 **iRage Return Prediction Challenge** | 8th place — LightGBM/XGBoost ensemble |
 | 🏅 **NKSR Hackathon 2025 & Flipkart Grid 7.0** | Finalist among 5,000+ teams nationally |
 | 🇮🇳 **Inter-IIT Sports Meet** | 7th place (IIT Bombay '23), 5th place (IIT Indore '24) |
 | 🥉 **SPARDHA '24 (IIT BHU)** | 2nd place among 30+ competing colleges |
